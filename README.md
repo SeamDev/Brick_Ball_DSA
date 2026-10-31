@@ -82,4 +82,4 @@ g++ src/main.cpp -o brick_breaker.exe -O3 -lraylib -lopengl32 -lgdi32 -lwinmm
 ---
 
 ## Academic Project Report
-The complete academic project report covering **Objectives, Data Structure Justification, System Flowchart, Implementation Details, Big-O Result Analysis, and Google Scholar References** can be viewed directly in [`PROJECT_REPORT.md`](./PROJECT_REPORT.md).
+The complete academic project report covering **Objectives, Data Structure Justification, System Flowchart, Implementation Details, Big-O Result Analysis, and Google Scholar References** can be viewed directly in [`PROJECT_REPORT.md`](./PROJECT_REPORT.md) or [`PROJECT_REPORT.pdf`](./PROJECT_REPORT.pdf).
