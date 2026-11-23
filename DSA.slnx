@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DSA.vcxproj" Id="69c4a228-0a55-460c-aa70-8471a53a1625" />
+</Solution>
